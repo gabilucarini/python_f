@@ -1,0 +1,104 @@
+{
+  "tests": [
+    {
+      "name": "Ejercicio 1",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "python -m pytest -vvv tests/exercise1_test.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 10
+    },
+    {
+      "name": "Ejercicio 2",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "python -m pytest -vvv tests/exercise2_test.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 10
+    },
+    {
+      "name": "Ejercicio 3",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "python -m pytest -vvv tests/exercise3_test.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 10
+    },
+    {
+      "name": "Ejercicio 4",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "python -m pytest -vvv tests/exercise4_test.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 10
+    },
+    {
+      "name": "Ejercicio 5",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "python -m pytest -vvv tests/exercise5_test.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 10
+    },
+    {
+      "name": "Ejercicio 6",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "python -m pytest -vvv tests/exercise6_test.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 10
+    },
+    {
+      "name": "Ejercicio 7",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "python -m pytest -vvv tests/exercise7_test.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 10
+    },
+    {
+      "name": "Ejercicio 8",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "python -m pytest -vvv tests/exercise8_test.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 10
+    },
+    {
+      "name": "Ejercicio 9",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "python -m pytest -vvv tests/exercise9_test.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 10
+    },
+    {
+      "name": "Ejercicio 10",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "python -m pytest -vvv tests/exercise10_test.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 10
+    }
+  ]
+}

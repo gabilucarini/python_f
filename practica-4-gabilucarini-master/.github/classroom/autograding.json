@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Ejercicio 1",
+      "setup": "sudo -H pip3 install pytest tinydb",
+      "run": "python -m pytest -vvv tests/exercise1_test.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 100
+    }
+  ]
+}

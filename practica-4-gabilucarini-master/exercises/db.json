@@ -1,0 +1,40 @@
+{
+    "estudiantes": {
+        "2": {
+            "dni": "46193480",
+            "nombre": "Mar\u00eda",
+            "notas": [
+                {
+                    "materia": "Programaci\u00f3n 1",
+                    "nota": 8
+                },
+                {
+                    "materia": "Programaci\u00f3n 2",
+                    "nota": 6
+                },
+                {
+                    "materia": "Base de datos",
+                    "nota": 8
+                }
+            ]
+        },
+        "3": {
+            "dni": "46193480",
+            "nombre": "Mar\u00eda",
+            "notas": [
+                {
+                    "materia": "Programaci\u00f3n 1",
+                    "nota": 8
+                },
+                {
+                    "materia": "Programaci\u00f3n 2",
+                    "nota": 6
+                },
+                {
+                    "materia": "Base de datos",
+                    "nota": 8
+                }
+            ]
+        }
+    }
+}
